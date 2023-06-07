@@ -24,6 +24,6 @@ body, html {
 </style>
  <body>
  <div class="bg"></div>
- <p style="text-align:center; font-size:5vw;">Pagina de teste2</p>
+ <p style="text-align:center; font-size:5vw;">Pagina de teste3</p>
  </body>
 </html>
